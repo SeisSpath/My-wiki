@@ -1,5 +1,5 @@
 # Rosalind's Wiki
 
-- Building...
+Building...
 
 Powered by [Hugo](https://gohugo.io/).
