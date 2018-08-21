@@ -1,0 +1,10 @@
+# Site settings (baseurl must end with a trailing slash!)
+baseURL = "/"
+languageCode = "en-us"
+title = "Rosalind's wiki"
+theme = "hugo-theme-wiki"
+copyright = "Copyright &#169; by Rosalind 2018"
+
+
+[Params]
+
